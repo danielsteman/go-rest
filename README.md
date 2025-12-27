@@ -15,3 +15,9 @@ HTTP Request
     ↓
 Database
 ```
+
+## Development
+
+```bash
+air
+```
